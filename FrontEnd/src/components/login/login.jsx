@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Eye, EyeOff, Lock, User } from "lucide-react";
 import BotonHarmonia from "@/components/ui/BotonHarmonia";
-import logo from "@/assets/Logo.png";
+import logo from "@/assets/logobytecraft25_rounded-removebg-preview.png";
 
 export default function Login() {
   const [username, setUsername] = useState("");

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Bell, User } from "lucide-react";
 import UserMenu from "@/components/common/UserMenu";
 import { useUser } from "@/context/UserContext";
-import logo from "@/assets/Logo.png";
+import logo from "@/assets/logobytecraft25_rounded-removebg-preview.png";
 
 import NavbarSecretaria from "./NavbarSecretaria";
 import NavbarAdmin from "../admin/NavbarAdmin";
